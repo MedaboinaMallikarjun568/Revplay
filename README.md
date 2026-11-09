@@ -126,7 +126,9 @@ Revplay/
 └── README.md
 ```
 
+## Application Architecture
 
+![RevPlay Console Architecture](revplay-architecture.png)
 
 ## Project Scope
 
