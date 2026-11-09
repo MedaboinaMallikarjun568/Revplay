@@ -42,14 +42,17 @@ connectivity and SQL operations.
 
 ## Technology Stack
 
-  Area                    Technologies
-  ----------------------- --------------
-  Programming language    Java
-  Database                MySQL
-  Database connectivity   JDBC
-  Testing                 JUnit
-  Logging                 Log4j
-  Version control         Git
+## Technology Stack
+
+| Category | Technology |
+|---|---|
+| Programming Language | Java |
+| Database | MySQL |
+| Database Connectivity | JDBC |
+| Testing Framework | JUnit |
+| Logging | Log4j |
+| Version Control | Git |
+| IDE | Eclipse (if used) |
 
 ## Application Modules
 
