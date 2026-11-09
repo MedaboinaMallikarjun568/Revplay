@@ -42,8 +42,6 @@ connectivity and SQL operations.
 
 ## Technology Stack
 
-## Technology Stack
-
 | Category | Technology |
 |---|---|
 | Programming Language | Java |
@@ -112,22 +110,23 @@ Install the following before running the application:
 JUnit is used for unit testing. Run the tests using the test runner or
 build command configured in the repository.
 
+
 ## Repository Structure
 
-The exact package and folder names may differ. A typical organization
-for this application is:
-
-``` text
-revplay-console/
+```text
+Revplay/
+├── .settings/
+├── bin/
+│   └── com/revplay/
 ├── src/
-│   ├── main/
-│   │   └── java/
-│   └── test/
-├── database/
-│   └── schema.sql
-├── README.md
-└── .gitignore
+│   └── com/revplay/
+├── .classpath
+├── .project
+├── Architecture revplay.png
+└── README.md
 ```
+
+
 
 ## Project Scope
 
